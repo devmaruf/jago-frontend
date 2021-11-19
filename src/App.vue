@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="font-siliguri">
+  <div id="app" class="font-Raleway">
     <Header></Header>
     <div class="bg-gray-100">
       <router-view></router-view>

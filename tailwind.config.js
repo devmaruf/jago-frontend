@@ -10,6 +10,7 @@ module.exports = {
         poppins: "'Poppins', sans-serif",
         roboto: "'Roboto', sans-serif",
         siliguri: "'Hind Siliguri', sans-serif",
+        raleway: "'Raleway', sans-serif",
       },
     },
     screens: {
@@ -816,6 +817,8 @@ module.exports = {
       "7/12": "58.333333%",
       "8/12": "66.666667%",
       "70%": "70%",
+      "60%": "60%",
+      "40%": "40%",
       "30%": "30%",
       "9/12": "75%",
       "10/12": "83.333333%",

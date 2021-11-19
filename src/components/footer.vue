@@ -1,5 +1,5 @@
 <template>
-<div class="">
+<div class="font-siliguri">
   <div class="bg-gray-300">
     <div class="container footer py-6">
       <div class="flex items-center justify-between">
